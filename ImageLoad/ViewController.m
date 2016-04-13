@@ -18,7 +18,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-//    利用NSURLConnection
+//    利用NSURLSession
     _myImageView.imageUrlString= @"http://b.zol-img.com.cn/desk/bizhi/image/1/1920x1200/1348810232493.jpg";
    
 }

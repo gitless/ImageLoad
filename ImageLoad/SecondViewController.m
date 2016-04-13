@@ -18,7 +18,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-//    利用NSURLSection
+//    利用NSURLConnect
     self.view.backgroundColor =[UIColor whiteColor];
     SFImageVIew *sfImageView = [[SFImageVIew alloc]initWithFrame:self.view.bounds];
     sfImageView.contentMode = UIViewContentModeScaleAspectFit;
